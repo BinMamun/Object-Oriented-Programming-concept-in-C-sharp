@@ -1,0 +1,14 @@
+E:\C#\5th Exam Prep\Evidence\1264603\Solution_1264603\Generic\bin\Debug\Generic.exe.config
+E:\C#\5th Exam Prep\Evidence\1264603\Solution_1264603\Generic\bin\Debug\Generic.exe
+E:\C#\5th Exam Prep\Evidence\1264603\Solution_1264603\Generic\bin\Debug\Generic.pdb
+E:\C#\5th Exam Prep\Evidence\1264603\Solution_1264603\Generic\obj\Debug\Generic.csproj.AssemblyReference.cache
+E:\C#\5th Exam Prep\Evidence\1264603\Solution_1264603\Generic\obj\Debug\Generic.csproj.CoreCompileInputs.cache
+E:\C#\5th Exam Prep\Evidence\1264603\Solution_1264603\Generic\obj\Debug\Generic.exe
+E:\C#\5th Exam Prep\Evidence\1264603\Solution_1264603\Generic\obj\Debug\Generic.pdb
+E:\C#\5th Exam Prep\Evidence\1264603\Evidence_1264603\Generic\bin\Debug\Generic.exe.config
+E:\C#\5th Exam Prep\Evidence\1264603\Evidence_1264603\Generic\bin\Debug\Generic.exe
+E:\C#\5th Exam Prep\Evidence\1264603\Evidence_1264603\Generic\bin\Debug\Generic.pdb
+E:\C#\5th Exam Prep\Evidence\1264603\Evidence_1264603\Generic\obj\Debug\Generic.csproj.AssemblyReference.cache
+E:\C#\5th Exam Prep\Evidence\1264603\Evidence_1264603\Generic\obj\Debug\Generic.csproj.CoreCompileInputs.cache
+E:\C#\5th Exam Prep\Evidence\1264603\Evidence_1264603\Generic\obj\Debug\Generic.exe
+E:\C#\5th Exam Prep\Evidence\1264603\Evidence_1264603\Generic\obj\Debug\Generic.pdb
